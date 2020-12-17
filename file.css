@@ -1,0 +1,299 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.header{
+	height: 100vh;
+}
+
+.icon-bar{
+	background: #ff0000;
+}
+
+li a {
+	color: white;
+	word-spacing: 80px;
+}
+
+.navbar-right{
+	padding-top: 90px;
+	padding-right: 90px;
+	border-radius: 40px;
+	font-size: 20px;
+	font-family: sans-serif;
+}
+.hero{
+	height: 150%;
+	width: 100%;
+	background: url("homeimg.jpg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+}
+.isearch{
+	width: 40px;
+	height: 40px;
+}
+
+.ihead{
+	padding-top: 90px;
+	text-align: center; 
+color: #ffffff; 
+font-size: 70px;
+font-weight: bold;
+}
+.icont{
+	font-family: 'Poppins', sans-serif;
+	color: #fff;
+    font-size: 21px;
+    margin-bottom: 30px;
+    line-height: normal;
+    display: block;
+    margin-top: 0;
+    text-align: center;
+}
+
+
+
+.bbtn {
+    width: 265px;
+    height: 65px;
+    background: #0e24cb;
+    color: #fff;
+    text-align: center;
+    line-height: 65px;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 45px auto 0;
+    display: flex;
+    justify-content: center;
+}
+.bbtn:hover {
+	background: #ffffff;
+}
+
+.copcat{
+	text-align: center;
+	font-size: 12px;
+}
+
+.section{
+	display: block;
+}
+
+.abtcnt{
+    background: url("watercolor.png");
+    background-size: cover;
+    background-position: center bottom;
+}
+
+.lpadbld {
+	padding-top: 40px;
+    text-align: center;
+    font-weight: bold;
+    font-size: 40px;
+}
+.abtpara{
+	text-align: center;
+	padding-top: 20px;
+	font-size: 20px;
+	color: black;
+}
+
+.manimg{
+	vertical-align: middle;
+	width: 1000px;
+	height: 520px;
+	position: center;
+	padding-top: 20px;
+	padding-left: 160px;
+
+}
+
+
+.ocname1{
+	font-size: 50px;
+    line-height: 55px;
+    margin-bottom: 20px;
+    color: #030101;
+    font-weight: 700;
+    padding-top: 60px;
+    text-align: center;
+}
+
+.ocdata1{
+	font-family: 'Poppins', sans-serif;
+	text-align: center;
+	color: #9f9f9f;
+	margin-top: 20px;
+	margin-bottom: 30px;
+    font-size: 17px;
+    line-height: 28px;
+    color: #252626;
+    font-weight: 300;
+}
+
+.pichead{
+	font-weight: 500;
+	text-align: center;
+    color: black;
+    line-height: 35px;
+}
+
+
+.picdt{
+	padding-top: 30px;
+    font-size: 17px;
+    line-height: normal;
+    font-weight: 280;
+    text-align: center;
+    margin-bottom: 30px;
+    color: #444;
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.ourco{
+	padding-top: 100px;
+	text-align: center;
+	font-weight: bold;
+	font-size: 50px;
+	color: #000000;
+}
+
+
+.phn {
+    background: url(office.jpg);
+    /*
+    margin-top: 50px;
+    margin-bottom: 50px;*/
+}
+
+.timings{
+	background: rgba(255,255,255,.85);
+    margin-top: 110px;
+    min-height: 560px;
+    margin-bottom: 110px;
+    padding: 70px 200px;
+}
+
+.daytt, .timett{
+	text-align: center;
+	padding-bottom: 25px;
+	font-size: 25px;
+	font-weight: 200;
+}
+
+.ssss{
+	text-align: center;
+}
+
+.scs{
+	padding-top: 95px; 
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.scspara{
+	margin-bottom: 30px;
+    font-size: 17px;
+    line-height: normal;
+    color: #444;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+}
+
+.name{
+	color: blue;
+
+}
+
+.student{
+	font-family: 'Poppins', sans-serif;
+	font-size: 22px;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.scsss{
+	font-size: 30px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    color: #111428;
+}
+
+.scssspara{
+	margin-bottom: 30px;
+    font-size: 17px;
+    line-height: normal;
+    color: #444;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+}
+
+.submit{
+	background: #f06008;
+    border-radius: 0 20px 20px 0;
+    border: none;
+    color: #fff;
+    right: 0;
+    top: 0;
+    width: 170px;
+    height: 60px;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+
+.ip{
+	border: none;
+	border-radius: 20px 0px 0px 20px;
+    font-size: 18px;
+    font-weight: 400;
+    width: 170px;
+    height: 60px;
+}
+
+.subs{
+	padding-left: 720px;
+	padding-top: 300px;
+}
+
+
+
+.footer{
+	padding-top: 100px;
+}
+.footy{
+    background: #3a3a3a;
+    padding-top: 60px;
+    color: white;
+    padding-bottom: 60px;
+}
+
+
+.shedd{
+	font-size: 25px;
+}
+
+
+.xx{
+	color: white;
+	font-size: 15px;
+}
+
+.xy{
+	color: white;
+	font-size: 15px;
+}
+
+.xx:hover{
+	color: grey;
+}
+
+.nav:hover{
+	background: none;
+	background-color: none;
+}
